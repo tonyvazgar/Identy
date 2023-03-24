@@ -9,7 +9,7 @@
 <li>Finalizado este tiempo, la cámara se cierra y se muestran en pantalla 5 fotos, correspondientes al frame del segundo 1, del segundo 2, … del segundo 5.</li>
 </ol>
 
-Los entregables serían:
+## Los entregables serían:
 
 <ol>
 <li>git con el código de front/back.</li>
