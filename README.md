@@ -1,5 +1,15 @@
 # Identy.io
 
+Project structure
+<ul>
+    <li>packages
+        <ul>
+            <li>server --> This folder contains the backend</li>
+            <li>web --> This folder contains the frontend</li>
+        </ul>
+    </li>
+</ul>
+
 ## Instructions
 
 <ol>
